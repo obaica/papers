@@ -1,1 +1,1 @@
-
+This repository contains the necessary input files and calculation result files for the band structures and phonon spectra of the 80 X3BA’3 compounds from our publication in Mater. Horiz.(https://pubs.rsc.org/en/Content/ArticleLanding/2024/MH/D4MH00526K).
