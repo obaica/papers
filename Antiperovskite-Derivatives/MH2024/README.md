@@ -1,1 +1,1 @@
-
+The necessary input files and calculation result files for the band structures and phonon spectra of the 80 X3BA’3 compounds in publication Tang et al. Mater. Horiz. 2024 (https://pubs.rsc.org/en/content/articlelanding/2024/mh/d4mh00526k).
